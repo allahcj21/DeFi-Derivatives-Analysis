@@ -1,2 +1,15 @@
-# DeFi-Derivatives-Analysis
-DeFi-Derivatives-Analysis
+# DeFi Derivatives Analysis (去中心化衍生品分析)
+
+本仓库用于深入研究和记录去中心化衍生品协议（如 dYdX, GMX, Synthetix）的机制、清算模型和风险管理。
+
+本仓库旨在：
+1.  分析不同协议的资金费率（Funding Rate）和流动性模型。
+2.  追踪去中心化期权和波动性产品的创新。
+
+---
+
+## 🔬 查看每日衍生品研究
+
+所有最新的研究笔记和交易策略都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
